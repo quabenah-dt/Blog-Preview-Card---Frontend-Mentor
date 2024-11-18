@@ -1,16 +1,23 @@
 
 :root {
      /* Colors */
-
+    --MAIN: #FFD700;
+    --SECONDARY: #111111;
+    --FADED: #6B6B6B;
+    --WHITE: #FFFFFF;
 
      /* Fonts */
-
+    --Main: 'Figtree';
 
     /* Font Sizes */
+    --FONT-REGULAR: 1rem;
+    --FONT-MEDIUM: 0.875rem;
+    --FONT-LARGE: 21.5rem;
 }
 
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: var(--Main);
   }
