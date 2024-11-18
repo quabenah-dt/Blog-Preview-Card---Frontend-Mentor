@@ -2,6 +2,5 @@
     font-family: Figtree;
     src: url(./Figtree-VariableFont_wght.ttf);
     font-style: normal;
-    font-weight: Medium Bold;
     src: local('Figtree'), local('Figtree-VariableFont_wght'), url(./Figtree-VariableFont_wght.ttf) format('truetype');
 }
