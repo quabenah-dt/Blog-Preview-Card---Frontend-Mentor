@@ -90,6 +90,3 @@ Contributions are welcome! To contribute to this project, follow these steps:
 4. Push the changes to your fork using `git push origin your-branch-name`
 5. Open a pull request to merge your changes into the main branch
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
